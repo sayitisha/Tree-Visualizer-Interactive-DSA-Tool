@@ -51,7 +51,7 @@ This project demonstrates important **Data Structures & Algorithms concepts**:
 
 ## 📷 Preview
 
-![Tree Visualizer Screenshot](./preview.png)
+<img width="1918" height="872" alt="image" src="https://github.com/user-attachments/assets/7cf938a1-e900-4345-ab12-33a367117f45" />
 
 ---
 
